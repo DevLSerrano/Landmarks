@@ -31,31 +31,30 @@ Insira um gif ou um link de alguma demonstração
 ## Screenshots iOS 📱
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/f722f236-b7dd-44d9-bd4a-5f517bbbcad2" alt="home1" width="300" height="600">
-  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/580c8d79-1877-4e99-abc7-deef5af238f3" alt="home2" width="300" height="600">
-  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/768d97e3-bf06-4bcf-aba7-ca1c41ee3364" alt="home3" width="300" height="600">
+  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/100d055c-9740-4b53-97db-0fc28851442b" alt="home1" width="300" height="600">
+  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/a62427c6-f9ad-4f84-bac5-74fa5298bc89" alt="home2" width="300" height="600">
+  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/2f9f834a-3fda-47b4-89c3-661e0023b0a9" alt="home3" width="300" height="600">
 </div>
 
 ## Screenshots WatchOS ⌚️
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/5f610fc6-f3e0-45ac-b038-6c1cc9ecb9fb" alt="watch1" width="200" height="200">
-  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/cbaa8cde-c471-40ee-bd0e-0152dfc15f3e" alt="watch2" width="200" height="200">
-  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/dc0f30ae-bd82-4cf3-9e2f-fa5247c42b92" alt="watch3" width="200" height="200">
+  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/787704c2-6d58-46a5-8724-76ebbc278504" alt="watch1" width="200" height="200">
+  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/04671458-e9d9-41ef-a669-f66e9bcd89c9" alt="watch2" width="200" height="200">
+  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/2c13a3e0-e774-4214-8475-7b9448bf9d12" alt="watch3" width="200" height="200">
 </div>
 
 ## Screenshots WatchOS 💻
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/021214c8-51e4-4e20-a8e4-9f0d7f8fab2d" alt="mac1" width="900" height="600">
-  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/e74c48d1-8d49-4ca4-86c7-d7ee54df49f1e" alt="mac2" width="900" height="600">
-  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/a94a04a4-eede-4529-80a3-5538110ff8bf" alt="mac3" width="900" height="600">
-  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/c4fc86d5-23d3-4ab5-8d2d-8554ce334b9f" alt="mac4" width="900" height="200">
+  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/54ac72c7-8d53-42c4-a69a-5364328998ad" alt="mac1" width="900" height="600">
+  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/09841c84-4086-43ac-81da-e8ef65e40008" alt="mac2" width="900" height="600">
+  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/12a4b3f0-f82a-47fa-a6ee-28669597ed70" alt="mac3" width="900" height="600">
+  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/27793c99-5e6d-4b6c-b80a-c2605cc0d1e1" alt="mac4" width="900" height="200">
 </div>
-
  
 
- 
+
 
 
 
