@@ -1,7 +1,7 @@
 
 # Landmark - SwiftUI 📱💻⌚️
 
-Aplicação iOS, WatchOS e MacOS desenvolvida através do tutorial Apple, nele abordamos interessantes conceitos sobre a criação de componentes, padrão de arquitetura, boas práticas de organização e código.
+Aplicação iOS, WatchOS e MacOS desenvolvida através do tutorial Apple utilizando SwiftUI, nele abordamos interessantes conceitos sobre a criação de componentes, padrão de arquitetura, boas práticas de organização e código.
 
 Os anos de experiência em Flutter permitiram-me visualizar o SwiftUI com mais facilidade, muitos dos componentes com a mesma função e apenas nomes ou maneiras de declarar diferentes, isto permitiu-me entender a UI com mais facilidade, e até mesmo prever o qual componente seria utilizado ali enquanto visualizava a imagem de referência.
 
