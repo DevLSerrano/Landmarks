@@ -44,6 +44,17 @@ Insira um gif ou um link de alguma demonstração
   <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/dc0f30ae-bd82-4cf3-9e2f-fa5247c42b92" alt="watch3" width="200" height="200">
 </div>
 
+## Screenshots WatchOS 💻
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/021214c8-51e4-4e20-a8e4-9f0d7f8fab2d" alt="mac1" width="900" height="600">
+  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/e74c48d1-8d49-4ca4-86c7-d7ee54df49f1e" alt="mac2" width="900" height="600">
+  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/a94a04a4-eede-4529-80a3-5538110ff8bf" alt="mac3" width="900" height="600">
+  <img src="https://github.com/DevLSerrano/Landmarks/assets/62712813/c4fc86d5-23d3-4ab5-8d2d-8554ce334b9f" alt="mac4" width="900" height="200">
+</div>
+
+ 
+
  
 
 
